@@ -1,5 +1,5 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: juancalbarran # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
@@ -7,16 +7,23 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Gestor
+    url: https://www1.mercantilseguros.com/appweb/gestor/cotizador/admin/login
+  - name: Salud Individual
+    url: https://www1.mercantilseguros.com/appweb/salud-individual/cotizador/afinidad?gid=530bede5-b246-11ea-9868-0a0c562ff536  
+  - name: Auto
+    url: https://www1.mercantilseguros.com/appweb/auto/vehiculo
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+
+assignees:
+  - juancalbarran
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: demo.upptime.js.org
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
