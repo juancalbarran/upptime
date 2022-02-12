@@ -40,36 +40,40 @@
     "url": "https://www1.mercantilseguros.com/appweb/gestor/cotizador/admin/login",
     "icon": "https://favicons.githubusercontent.com/www1.mercantilseguros.com",
     "slug": "gestor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 250,
-    "timeWeek": 235,
-    "timeMonth": 235,
-    "timeYear": 235,
-    "dailyMinutesDown": {}
+    "time": 239,
+    "timeDay": 252,
+    "timeWeek": 239,
+    "timeMonth": 239,
+    "timeYear": 239,
+    "dailyMinutesDown": {
+      "2022-02-12": 0
+    }
   },
   {
     "name": "Salud Individual",
     "url": "https://www1.mercantilseguros.com/appweb/salud-individual/cotizador/afinidad?gid=530bede5-b246-11ea-9868-0a0c562ff536",
     "icon": "https://favicons.githubusercontent.com/www1.mercantilseguros.com",
     "slug": "salud-individual",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 86,
-    "timeDay": 164,
-    "timeWeek": 86,
-    "timeMonth": 86,
-    "timeYear": 86,
-    "dailyMinutesDown": {}
+    "time": 84,
+    "timeDay": 120,
+    "timeWeek": 84,
+    "timeMonth": 84,
+    "timeYear": 84,
+    "dailyMinutesDown": {
+      "2022-02-12": 0
+    }
   },
   {
     "name": "Auto",
@@ -77,18 +81,18 @@
     "icon": "https://favicons.githubusercontent.com/www1.mercantilseguros.com",
     "slug": "auto",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.06%",
+    "uptimeDay": "97.47%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "99.06%",
     "time": 131,
     "timeDay": 142,
     "timeWeek": 131,
     "timeMonth": 131,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2022-02-12": 0
+      "2022-02-12": 37
     }
   },
   {
