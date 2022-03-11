@@ -1,7 +1,7 @@
 url: https://www1.mercantilseguros.com/appweb/salud-individual/cotizador/afinidad?gid=530bede5-b246-11ea-9868-0a0c562ff536
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-03-11T05:55:18.697Z
+status: up
+code: 200
+responseTime: 162
+lastUpdated: 2022-03-11T06:27:38.445Z
 startTime: Wed Feb 09 2022 17:20:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
